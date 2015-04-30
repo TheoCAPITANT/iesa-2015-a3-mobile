@@ -1,1 +1,3 @@
 // 08
+shoppingList = []
+occupations = [:]
