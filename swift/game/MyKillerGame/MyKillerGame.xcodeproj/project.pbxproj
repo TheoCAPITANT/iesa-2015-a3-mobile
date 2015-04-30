@@ -15,6 +15,7 @@
 		E979AC121AF26AF60076D9CC /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E979AC111AF26AF60076D9CC /* Images.xcassets */; };
 		E979AC151AF26AF60076D9CC /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = E979AC131AF26AF60076D9CC /* LaunchScreen.xib */; };
 		E979AC211AF26AF60076D9CC /* MyKillerGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E979AC201AF26AF60076D9CC /* MyKillerGameTests.swift */; };
+		E979AC2B1AF26F030076D9CC /* WelcomeScene.swift in Sources */ = {isa = PBXBuildFile; fileRef = E979AC2A1AF26F030076D9CC /* WelcomeScene.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,7 @@
 		E979AC1A1AF26AF60076D9CC /* MyKillerGameTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyKillerGameTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E979AC1F1AF26AF60076D9CC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E979AC201AF26AF60076D9CC /* MyKillerGameTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyKillerGameTests.swift; sourceTree = "<group>"; };
+		E979AC2A1AF26F030076D9CC /* WelcomeScene.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomeScene.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 				E979AC081AF26AF60076D9CC /* GameScene.sks */,
 				E979AC0A1AF26AF60076D9CC /* GameScene.swift */,
 				E979AC0C1AF26AF60076D9CC /* GameViewController.swift */,
+				E979AC2A1AF26F030076D9CC /* WelcomeScene.swift */,
 				E979AC0E1AF26AF60076D9CC /* Main.storyboard */,
 				E979AC111AF26AF60076D9CC /* Images.xcassets */,
 				E979AC131AF26AF60076D9CC /* LaunchScreen.xib */,
@@ -222,6 +225,7 @@
 				E979AC0B1AF26AF60076D9CC /* GameScene.swift in Sources */,
 				E979AC0D1AF26AF60076D9CC /* GameViewController.swift in Sources */,
 				E979AC071AF26AF60076D9CC /* AppDelegate.swift in Sources */,
+				E979AC2B1AF26F030076D9CC /* WelcomeScene.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
